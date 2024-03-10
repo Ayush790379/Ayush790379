@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS along with JavaScript
 - 💞️ I’m looking to collaborate on projects which make use of my skills.
 - 📫 How to reach me-->
-- Here is my linkedin :- www.linkedin.com/in/ayush-singh-0349a5282
+- Here is my linkedin :- www.linkedin.com/in/ayush-singh-kz
 - for more queries here is my email :- ayushsingh280305@gmail.com
 
 <!---
