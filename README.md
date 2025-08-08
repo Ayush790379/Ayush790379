@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @Ayush790379<br>👀 I’m interested in Front-end development and Database Mananagement.<br>🌱 I’m currently learning HTML and CSS along with JavaScript<br>💞️ I’m looking to collaborate on projects which make use of my skills.<br>📫 How to reach me--><br>Here is my linkedin :- www.linkedin.com/in/ayush-singh-kz<br>for more queries here is my email :- ayushsingh280305@gmail.com
+👋 Hi, I’m @Ayush790379<br>👀 I’m interested in Front-end development and Database Mananagement.<br>🌱 I’m currently learning HTML and CSS along with JavaScript<br>💞️ I’m looking to collaborate on projects which make use of my skills.<br>📫 How to reach me--><br>Here is my linkedin :- www.linkedin.com/in/ayush-singh-kz<br>for more queries here is my email :- ayushsingh280305@gmail.com <br>
+Portfolio :- (https://fanciful-blancmange-b16295.netlify.app)
 
 
 ## 🌐 Socials:
